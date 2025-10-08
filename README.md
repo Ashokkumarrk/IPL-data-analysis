@@ -65,7 +65,7 @@ This project involves *exploratory data analysis (EDA)* on IPL (Indian Premier L
 
 ## 🔗 Live Preview
 
-[👉 View notebook](./IPL project.ipynb)
+[👉 View notebook](ipl_project.ipynb)
 
 ## 🧠 Future Scope
 
